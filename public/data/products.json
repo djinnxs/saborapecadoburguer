@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Pecado Clásico",
+    "description": "Pan tostado, carne, tomate, lechuga, queso y jamón + papas fritas",
+    "price": 10000,
+    "image": "/img/promo.png"
+  },
+  {
+    "id": 2,
+    "name": "Lujuria de Queso",
+    "description": "Volcán de parmesano, inyección de cheddar y queso pategras sobre una carne infernal + papas fritas",
+    "price": 14000,
+    "image": "/img/cheese-burger.png"
+  },
+  {
+    "id": 3,
+    "name": "Inferno Spicy",
+    "description": "Doble carne, doble cheddar, bacon, y alioli + papas fritas",
+    "price": 14000,
+    "image": "/img/spicy-burger.png"
+  },
+  {
+    "id": 4,
+    "name": "Tentación Suprema",
+    "description": "Doble carne, doble cheddar + papas fritas ",
+    "price": 13000,
+    "image": "/img/hero-burger.png"
+  },
+  {
+    "id": 5,
+    "name": "Gula de Carne",
+    "description": "Triple carne, doble cheddar y bacon + papas fritas.",
+    "price": 15000,
+    "image": "/img/spicy-burger.png"
+  },
+  {
+    "id": 6,
+    "name": "Milanesa infernal",
+    "description": "Sándwich pan tostado, milanesa, tomate, lechuga, huevo frito, queso y jamón + papas fritas.",
+    "price": 20000,
+    "image": "/img/mila2.png"
+  },
+  
+  {
+    "id": 7,
+    "name": "Lomito Pecaminoso",
+    "description": "Sándwich pan tostado, carne, tomate, lechuga, huevo frito, queso y jamón + papas fritas",
+    "price": 15000,
+    "image": "/img/hero-sandwich.png"
+  },
+  {
+    "id": 8,
+    "name": "Nuggets",
+    "description": "Crujientes bocados de pollo pecaminosos",
+    "price": 10000,
+    "image": "/img/nuguets.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Salchipapas",
+    "description": "Mezcla infernal de papas y salchichas de alta calidad.",
+    "price": 50000,
+    "image": "/img/salchipapa.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Papas del Diablo",
+    "description": "Papas fritas cocinadas con el fuego secreto.",
+    "price": 5000,
+    "image": "/img/grilled-sandwich.png" 
+  },
+  {
+    "id": 11,
+    "name": "Coca Cola 500ml",
+    "description": "El clásico sabor prohibido, bien helada.",
+    "price": 3000,
+    "image": "/img/coca500.jpg" 
+  },
+  {
+    "id": 12,
+    "name": "Sprite 500 ml",
+    "description": "Refrescante y brutal para calmar el fuego.",
+    "price": 3000,
+    "image": "/img/sprite500.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Agua Mineral 500ml",
+    "description": "Pureza necesaria después de tanto pecado.",
+    "price": 2500,
+    "image": "/img/agua500.jpg"
+  }
+]

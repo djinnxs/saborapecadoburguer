@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem; 
+}
+
+.logo-container a {
+  display: flex;
+  align-items: center; /* Esto alinea verticalmente el logo y el texto */
+  gap: 15px;           /* Esto separa un poco el logo del texto */
+  text-decoration: none;
+  color: #ffffff;         /* Ajusta el color según tu diseño */
+}
+
+.logo-container img {
+  width: 120px;         /* Ajusta este valor (antes tenías 200px, era muy grande) */
+  height: auto;
+}
+
+.logo-container span {
+  font-size: 2.0rem;   /* Ajusté el tamaño del texto para que no sea más grande que el logo */
+  font-weight: bold;
+}

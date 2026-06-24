@@ -1,0 +1,16 @@
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px; /* Agregué un poco de espacio lateral para que no toque los bordes */
+}
+
+.redes-sociales {
+  display: flex;  /* Esto pone los enlaces uno al lado del otro */
+  gap: 15px;      /* ESTA es la clave: crea un espacio de 15px entre ellos */
+}
+
+.redes-sociales a {
+  text-decoration: none;
+  color: #f8f8f8;
+}
